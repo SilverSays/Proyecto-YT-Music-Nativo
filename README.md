@@ -168,7 +168,7 @@ Spanish and English.
 ### Download and install
 
 Download `Motiv-<version>-instalador.exe` from the
-[Releases](https://github.com/SilverSays/Proyecto-YT-Music-Nativo/releases) page
+[Releases](https://github.com/SilverSays/Motiv-ytm/releases) page
 and run it. It installs for your user only (no administrator rights), adds a
 Start menu shortcut (and a desktop one if you want) and registers a regular
 uninstaller in Windows Settings. The first time the app opens, it offers to
