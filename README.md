@@ -7,7 +7,8 @@
 A native desktop client for YouTube Music on Windows, built with Qt6 and `mpv`
 instead of a bundled Chromium or Electron shell. It starts fast, stays around
 ~80-120 MB of RAM and has its own clean, cool-toned interface, with each
-playlist's color pulled from its cover art. The app's interface is in Spanish.
+playlist's color pulled from its cover art. The interface is available in
+Spanish and English.
 
 > **Work in progress.** The app is already usable day to day, but I'm still
 > adding features and polishing details. There may be big changes from one
